@@ -1,6 +1,7 @@
 # dd-php-tracer-aarch64
 # https://stathers.net/2020/03/17/datadog-php-tracer-aarch64.html
 
+```
 mkdir -p /tmp/dd-php-tracer-aarch64
 cd /tmp/dd-php-tracer-aarch64
 # download latest release tarball
@@ -52,3 +53,4 @@ cd dd-php-tracer-aarch64/
 git add . 
 git commit -m "new version"
 git push
+```
